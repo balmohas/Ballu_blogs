@@ -1,7 +1,7 @@
 # Ballu_blogs
 **AWS Blog and publications**
 
-[Automate the Creation of On-Demand Capacity Reservations for running EC2 instances]()
+[Automate the Creation of On-Demand Capacity Reservations for running EC2 instances](https://aws.amazon.com/blogs/compute/automate-the-creation-of-on-demand-capacity-reservations-for-running-ec2-instances/)
 
 [Automate S3 Lifecycle rules at scale to transition data to S3 Intelligent-Tiering](https://aws.amazon.com/blogs/storage/automate-s3-lifecycle-rules-at-scale-to-transition-data-to-s3-intelligent-tiering/)
 
