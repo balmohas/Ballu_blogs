@@ -3,6 +3,8 @@
 
 [Consolidate and query Amazon S3 Inventory reports for Region-wide object-level visibility](https://aws.amazon.com/blogs/storage/consolidate-and-query-amazon-s3-inventory-reports-for-region-wide-object-level-visibility/)
 
+[YouTube Video on Consolidate and query Amazon S3 Inventory reports for Region-wide object-level visibility ](https://www.youtube.com/watch?v=OvJWYb7yJnY)
+
 [Using Tag-Based Filtering to Manage AWS Health Monitoring and Alerting at Scale](https://aws.amazon.com/blogs/mt/using-tag-based-filtering-to-manage-health-monitoring-and-alerting-at-scale/)
 
 [Sample code for Tag-Based Filtering to Manage AWS Heaith Monitoring and Alerting at Scale](https://github.com/balmohas/Tag-based-instance-route)
