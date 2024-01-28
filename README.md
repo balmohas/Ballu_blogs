@@ -1,6 +1,8 @@
 # Ballu_blogs
 **AWS Blog and publications**
 
+[Consolidate and query Amazon S3 Inventory reports for Region-wide object-level visibility ](https://youtu.be/9gpvhEmLx9k?feature=shared)
+
 [Automating retrievals from the Amazon S3 Glacier storage classes](https://aws.amazon.com/blogs/storage/automating-retrievals-from-the-amazon-s3-glacier-storage-classes/)
 
 [Consolidate and query Amazon S3 Inventory reports for Region-wide object-level visibility](https://aws.amazon.com/blogs/storage/consolidate-and-query-amazon-s3-inventory-reports-for-region-wide-object-level-visibility/)
